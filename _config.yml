@@ -1,5 +1,8 @@
 title: Public Policy Blog
-description: A GitHub Pages blog on policy, society, and governance
-author: Reallyishan009
-markdown: kramdown
+email: your-email@example.com
+description: A blog about policy, governance, and society.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://reallyishan009.github.io" # the base hostname & protocol for your site
 theme: minima
+plugins:
+  - jekyll-feed
